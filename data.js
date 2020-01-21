@@ -1,10 +1,10 @@
 var resumeData = {
     'about' :{
-        name : 'Kartik Maurya',
-        email : 'mauryakartik@gmail.com',
-        designation : 'Front-end Engineer',
+        name : 'Ankita Mehra',
+        email : 'ankita.mehra1988@gmail.com',
+        designation : 'Asst. Content Manager',
         currentCity : 'Bengaluru',
-        imgurl: 'https://avatars0.githubusercontent.com/u/2690844',
+        imgurl: 'https://images-na.ssl-images-amazon.com/images/I/914sMCV6VZL._US230_.jpg',
         otherLinks :[
             {
                 url : '',
