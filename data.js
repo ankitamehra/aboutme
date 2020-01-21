@@ -132,7 +132,7 @@ var resumeData = {
             },
             {
                 name : 'CleverTap',
-                rating: 3
+                rating: 2
             },
             {
                 name : 'Canva',
