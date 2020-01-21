@@ -2,209 +2,69 @@ var resumeData = {
     'about' :{
         name : 'Ankita Mehra',
         email : 'ankita.mehra1988@gmail.com',
-        designation : 'Asst. Content Manager',
+        designation : 'Assistant Manager - Content Management & Analytics',
         currentCity : 'Bengaluru',
         imgurl: 'https://images-na.ssl-images-amazon.com/images/I/914sMCV6VZL._US230_.jpg',
         otherLinks :[
             {
                 url : '',
                 logo : 'https://img.icons8.com/material-two-tone/344/important-mail.png',
-                name : 'mauryakartik@gmail.com'
+                name : 'ankita.mehra1988@gmail.com'
             },
             {
                 url : '',
                 logo : 'https://img.icons8.com/android/24/000000/cell-phone.png',
-                name : '+91-9535680359'
+                name : '+91-9113564812'
             },
             {
-                url : 'https://www.linkedin.com/in/kartik-maurya-692aa892/',
+                url : 'https://www.linkedin.com/in/ankita-mehra-79607a73',
                 logo : 'https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg',
                 name : 'bit.ly/30AjmAF'
-            },
-            {
-                url : 'https://github.com/9kartik',
-                logo : 'https://github.githubassets.com/images/modules/logos_page/Octocat.png',
-                name : 'github.com/9kartik'
-            },
-            {
-                url : 'https://www.behance.net/kanine',
-                logo : 'https://www.behance.net/favicon.ico',
-                name : 'behance.net/kanine'
             }
         ]
     },
     'projects' : { // three columns per project
-        heading : 'Professional Projects',
+        heading : 'PROFESSIONAL EXPERIENCE',
         topics : [
             {
-                designation : 'UI Engineer',
-                companyName : 'Cleartrip',
-                duration : '2017 May-Present',
+                designation : 'Assistant Manager - Content Management & Analytics',
+                companyName : 'CLEARTRIP PRIVATE LIMITED',
+                duration : 'July 2017-Present',
                 allprojects:[
                 {
-                    project : 'Site Revamp to React',
-                    content : `Migrating our search results page from shtml and javascript to React. Bridging the backend and frontend gap. Mentoring the team through the business logic, so it could be implemented better on NodeJs and the UI layer.`,
-                    technologies : [
-                    {
-                            name: 'ReactJS'
-                    },    
-                    {
-                        name: 'NodeJS'
-                    }
-                    ]
-                },
-                {
-                    project : 'Reward System integration',
-                    content : `Offering more rewards for bookings provided by our reward and payment partners.
-                                Offering a future flexible booking date at a nominal price.`,
-                    technologies : [
-                    {
-                            name: 'ReactJS (PWA)'
-                    },    
-                    {
-                        name: 'javascript (Desktop)'
-                    },
-                    {
-                        name: 'JSP (Desktop)'
-                    },
-                    ]
-                },
-                {
-                    project : 'Banking Integration',
-                    content : 'Integrating banks like ADCB with their redemption scenarios',
-                    technologies : [
-                        {
-                            name: 'javascript'
-                        },
-                        {
-                            name: 'JSP (Desktop)'
-                        },
-                        {
-                            name: 'Backbone js'
-                        },
-                        {
-                            name: 'lodash'
-                        }
-                    ]
-                },
-
-                {
-                    project : 'Embedded Results',
-                    url : '',
-                    content : 'Existing expanded view was obstructive to the user, as users had to scroll through to see similar flights and combinations. Improved the UI to give the choice to pair flights.',
-                    technologies : [
-                        {
-                            name : 'javascript',
-                            rating : 4
-                        },
-                        {
-                            name : 'jquery',
-                            rating : 4
-                        },
-                        {
-                            name : 'mustachejs',
-                            rating : 4
-                        }
-                    ]
-                },
-                {
-                    project : 'Cross-sell: City Based Advertisement',
-                    content : 'Destination related activities and hotels suggestions on your flight ticket.',
-                    technologies : [
-                        {
-                            name: 'mustachejs(customised)'
-                        },
-                        {
-                            name: 'lodash'
-                        }
-                    ]
-                },
-                {
-                    project : 'Flexible user based searches',
-                    content : 'Implemented LRU based browser storage so it tells you cheapest fare combinations for your recent searches.',
-                    technologies : [
-                        {
-                            name : 'mustache.js'
-                        },
-                        {
-                            name : 'momentjs'
-                        },
-                        {
-                            name : 'Backbone js'
-                        }
-                    ]
-                },
-                {
-                    project : 'Click-jack Proofing',
-                    content : 'Click-jack reports were taken into account and a solution was provided',
-                    technologies : [
-                        {
-                            name : 'javascript'
-                        }
-                    ]
+                    project : 'Cleartrip  Hotels Content',
+                    content : `Auto Search Suggestions for 60 cities (India) - Lay of the Land feature for Hotels product - Descriptions cross-check forwarded by the outsource agency - SEO friendly content creations for hotels (PAN India)- 
+                    Product and Engineering Team coordination for resolving content and product related issues - Business development content-related requests management on a daily basis- Ad-hoc projects execution and management - 
+                    HR and PR Team coordination as and when required - Timely feedback to the Content as well as Product Team (Mobile App and Website both) - Content trackers management on a regular basis`
                 }]
             },
             {
-                designation : 'Software Engineer',
-                companyName: 'Unisys',
-                duration: '2014 August - 2017 May',
+                designation : 'Manager - Content & PR',
+                companyName: 'MYP GROUP OF COMPANIES - GURGAON',
+                duration: 'April 2017-Juno 2017',
                 allprojects:[
                     {
-                        project : 'Linesight [Border Security]',
-                        content : `Risk analysis using machine learning and related entities. I built the interface using mainly ArgularJS , utilizing directives to create a lot of reusable components. It involved user profile based access. Interacting with graph db for the related data and plotting it using keylines and AngularJS. ▪ Linesight mongodb aggregation setup [using RestHeart]: complex aggregations in mongodb like group flights by every x minutes`,
-                        technologies : [
-                        {
-                            name: 'AngularJS'
-                        },    
-                        {
-                            name: 'momentjs'
-                        },
-                        {
-                            name: 'keylines'
-                        },
-                        {
-                            name: 'underscore js'
-                        },
-                        {
-                            name: 'RestHeart'
-                        }
-                        ]
-                    },
-                    {
-                        project : 'Transport Management System',
-                        content : `Responsive UI development: Introduced searchable table headers in the website.`,
-                        technologies : [
-                        {
-                            name: 'SCSS'
-                        },    
-                        {
-                            name: 'javascript'
-                        }
-                        ]
-                    },
-                    {
-                        project : 'Banking PoC Ionic framework',
-                        content : `Cross Platform Mobile Web app using ionic framework to audit a middleware Kinvey `,
-                        technologies : [
-                        {
-                            name: 'Ionic 2'
-                        },
-                        {
-                            name: 'Kinvey'
-                        }
-                        ]
+                        project : 'Content Management and PR',
+                        content : `Created core strategy for the brand Designed tho logo -  
+                                    Wrote and edited SE0 friendly articles for the blog - Provided feedback to the outsourco agency for a commercial vvebsite creation 
+                                    -Coordinated with the HR Department and company's heod for the successful implementation of company's guidelines - 
+                                    Worked on social media for the brand promotion `
                     }
                 ]
             },
             {
-                designation : 'Android Developer Intern',
-                companyName: 'TEKSTRA TECHNOLOGIES',
-                duration: '2013 May - June',
+                designation : 'Content Manager',
+                companyName: ' PURA HOLIDAYS & STAYS PRIVATE LIMITED - GURGAON',
+                duration: 'May 2016-March 2017',
                 allprojects:[
                     {
-                        project : 'Wait For Me',
-                        content : `The android camera app would wait for the number of faces to take a picture, good for a group photo! 
-                        `
+                        project : 'Content, Design and SEO',
+                        content : `Finalized the website's layout and wrote/edited coherent SEO friendly content for the website 
+                                    - Updated SE0 friendly content on Wordpress - Represented the organization by generating blog articles 
+                                    - Managed the team of Bloggors 
+                                    - Managed daily content updates on social media 
+                                    - Coordinated with the Technical Team to fix the gaps 
+                                  `
                     }]
                 }
         ]
