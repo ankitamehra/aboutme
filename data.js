@@ -5,9 +5,31 @@ var resumeData = {
         designation : 'Assistant Manager - Content Management & Analytics',
         currentCity : 'Bengaluru',
         imgurl: 'https://images-na.ssl-images-amazon.com/images/I/914sMCV6VZL._US230_.jpg',
+        metaTags : [
+            {
+                property : 'og:image',
+                value : 'https://qph.fs.quoracdn.net/main-raw-163389374-ygdkoqgyhbnkgwdxrvdpbtqlwsynkdrb.jpeg'
+            },
+            {
+                property : 'og:description',
+                value : 'Ankita Mehra (Content Manager)'
+            },
+            {
+                property : 'og:url',
+                value : 'https://ankitamehra.github.io/aboutme'
+            },
+            {
+                property : 'og:type',
+                value : 'website'
+            },
+            {
+                property : 'og:title',
+                value : 'Ankita Mehra\'s - Resume'
+            }
+        ],
         otherLinks :[
             {
-                url : '',
+                url : 'mailto:someone@example.com?Subject=Mailing through your resume link',
                 logo : 'https://img.icons8.com/material-two-tone/344/important-mail.png',
                 name : 'ankita.mehra1988@gmail.com'
             },

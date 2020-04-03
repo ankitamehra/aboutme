@@ -4,9 +4,14 @@
         <link rel="stylesheet" href="me.css">
         <script type="text/javascript" src="data.js"></script>
         <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/3.1.0/mustache.js"></script>
+        <script type="text/javascript" defer src="script.js"></script>
         <meta name="viewport" content="width=device-width,initial-scale=1.0">
-
-        <!-- <link rel="stylesheet" href="libraries/bootstrap/css/bootstrap.min.css"> -->
+        <meta property="og:image" content="https://lh3.googleusercontent.com/-TioHMda1bus/AAAAAAAAAAI/AAAAAAAAI4w/AAKWJJPEXaiQiDi1rOIaIKScqrvVU--Yhw.CMID/s400-c/photo.jpg"/>
+		<meta property="og:description" content="Kartik Maurya (Software Engineer)"/>
+		<meta property="og:url" content="https://9kartik.github.io/resume"/>
+		<meta property="og:type" content="website"/>
+		<meta property="og:title" content="Kartik Maurya's - Resume"/>
+		<!-- <link rel="stylesheet" href="libraries/bootstrap/css/bootstrap.min.css"> -->
     </head>
     <body>
         <div class="top left" id="view">
@@ -14,12 +19,32 @@
         
     </body>
     <script id="template" type="text/template">
+        {{#resumeData}}
+            {{#about}}
+                <meta property="og:image" content='{{metaImg}}'/>
+                <meta name="description" content='{{metaDescription}}' />
+                <div class="fwmob blackbg vflex centered">
+                    <div class="flex2"></div>
+                        <div class="hflex flex4">
+                            <div class="flex1"></div>
+                            <div class="insetbkgr imgRound xshine centered" data-content="rotate(0 deg)" style='background-image: url("{{resumeData.about.imgurl}}")'>
+                                <div class="xshineAfter"></div>
+                            </div>
+                            <div class="flex1"></div>
+                        </div>
+                    <div class="flex1"></div>
+                    <div class="dgrey header centered flex2">&#9666; {{name}} &#9656;</div>
+                </div>
+            {{/about}}
+        {{/resumeData}}
         <div class="container grid2">
             {{#resumeData}}
                 {{#about}}
-                        <div>
+                        <div class="dstick-0-0">
                             <div class="ptop centered">
-                                <img class="imgRound groovebordered" height="120em" src="{{imgurl}}">
+                                {{#resumeLink}}<a href={{resumeLink}}>{{/resumeLink}}
+                                    <img class="imgRound groovebordered" height="120em" src="{{imgurl}}">
+                                {{#resumeLink}}</a>{{/resumeLink}}
                             </div>
                         </div>
                         <div>
@@ -30,7 +55,7 @@
                             
                         </div>
                 {{/about}}
-                <div class="centered">
+                <div class="centered dstick-0-10">
                     <div class="pb1 bold pcentered">PERSONAL DETAILS</div>
                     <div class="t8 pbhalf pcentered">Current City</div>
                     <div class="t8 pcentered">{{about.currentCity}}</div>
@@ -54,15 +79,15 @@
                         <div class="fheading bold pbhalf">{{heading}}</div>
                         
                         {{#topics}}
-                            <div class="piped pl0 pbhalf ptop"><span class="dot">&#10687;</span>{{companyName}}</div>
+                            <div class="piped pl0 pbhalf ptop"><span class="dot">&bull;</span>{{companyName}}</div>
                             <div class="piped hflex bkgrlb">
                                 <div class="flex mleft">{{designation}}</div>
                                 <div >{{duration}}</div>
                             </div>
                             {{#allprojects}}
-                                <div class="piped ul ptop">{{project}}</div>
+                                <div class="piped ptop tCell bbdashed">{{project}}</div>
                                 {{#content}}
-                                    <div class="piped brddotted description t6">{{content}}</div>
+                                    <div class="piped brddotted description t7 pr1">{{#dashToDot}}{{content}}{{/dashToDot}}</div>
                                 {{/content}}
                                 <!-- <div class="piped brdrc">
                                     {{#technologies}}
@@ -78,11 +103,11 @@
                         <div class="ptop bold pb1">{{heading}}</div>
                         
                             {{#qualifications}}
-                                <div class="piped pl0 pbhalf"> <span class="dot">&#10687;</span>{{institute}}</div>
+                                <div class="piped pl0 pbhalf"> <span class="dot">&bull;</span>{{institute}}</div>
                                 <div class="piped hflex bkgrlb">
                                     <div class="flex mleft">
                                         <div>{{degree}}</div>
-                                        <div class="t6">{{specialization}}</div>
+                                        <div class="t8">{{specialization}}</div>
                                     </div>
                                     <div >{{duration}}</div>
                                 </div>
@@ -109,5 +134,4 @@
             {{/resumeData}}
         </div>
     </script>
-    <script type="text/javascript" src="script.js"></script>
 </html>
