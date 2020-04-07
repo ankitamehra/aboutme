@@ -12,7 +12,7 @@ var resumeData = {
             },
             {
                 property : 'og:description',
-                value : 'Ankita Mehra (Content Manager)'
+                value : 'My professional journey'
             },
             {
                 property : 'og:url',
@@ -24,20 +24,10 @@ var resumeData = {
             },
             {
                 property : 'og:title',
-                value : 'Ankita Mehra\'s - Resume'
+                value : 'Ankita Mehra'
             }
         ],
         otherLinks :[
-            {
-                url : 'mailto:someone@example.com?Subject=Mailing through your resume link',
-                logo : 'https://img.icons8.com/material-two-tone/344/important-mail.png',
-                name : 'ankita.mehra1988@gmail.com'
-            },
-            {
-                url : '',
-                logo : 'https://img.icons8.com/android/24/000000/cell-phone.png',
-                name : '+91-9113564812'
-            },
             {
                 url : 'https://www.linkedin.com/in/ankita-mehra-79607a73',
                 logo : 'https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg',
