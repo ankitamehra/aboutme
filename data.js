@@ -37,6 +37,21 @@ var resumeData = {
                 url : 'https://medium.com/@ankitamehra_40334',
                 logo : 'https://cdn-static-1.medium.com/_/fp/icons/favicon-rebrand-medium.3Y6xpZ-0FSdWDnPM3hSBIA.ico',
                 name : 'Medium Articles'
+            },
+            {
+                url : 'https://dekhosunosocho.wordpress.com/',
+                logo : 'https://s1.wp.com/i/favicon.ico?v=1447321881',
+                name : 'Blog in Hindi'
+            },
+            {
+                url : 'https://www.amazon.in/Decoding-Hypocrisy-Patriarchy-Feminism-Black-ebook/dp/B07NCYQDRN',
+                logo : 'https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/amazon-16.png',
+                name : 'Self Published Book'
+            },
+            {
+                url : 'https://www.quora.com/profile/Ankita-Mehra-13',
+                logo : 'https://cdn4.iconfinder.com/data/icons/miu-flat-social/60/quora-16.png',
+                name : 'Quora'
             }
         ]
     },
