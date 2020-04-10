@@ -31,7 +31,12 @@ var resumeData = {
             {
                 url : 'https://www.linkedin.com/in/ankita-mehra-79607a73',
                 logo : 'https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg',
-                name : 'bit.ly/30AjmAF'
+                name : 'LinkedIn Profile'
+            },
+            {
+                url : 'https://medium.com/@ankitamehra_40334',
+                logo : 'https://cdn-static-1.medium.com/_/fp/icons/favicon-rebrand-medium.3Y6xpZ-0FSdWDnPM3hSBIA.ico',
+                name : 'Medium Articles'
             }
         ]
     },
