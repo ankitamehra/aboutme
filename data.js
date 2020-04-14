@@ -66,7 +66,7 @@ var resumeData = {
                 {
                     project : 'Content Management, Social Media & Product Enhancement',
                     content : `Auto Search Suggestions for 60 cities (India) - Lay of the Land feature for Hotels product - Descriptions cross-check forwarded by the outsource agency - SEO friendly content creation for hotels (PAN India)- 
-                    Product and Engineering Team coordination for resolving content and product related issues - Business development content-related requests management on a daily basis- Ad-hoc projects execution and management - 
+                    Product and Engineering Team coordination for resolving content and product issues - Business development content-related requests management on a daily basis- Ad-hoc projects execution and management - 
                     HR and PR Team coordination as and when required - Timely feedback to the Content as well as Product Team (Mobile App and Website both) - Content trackers management on a regular basis.`
                 }]
             },
@@ -94,7 +94,7 @@ var resumeData = {
                         content : `Finalized the website's layout - Wrote/edited coherent SEO friendly content for the website - 
                                     - Updated SE0 friendly content on Wordpress - Represented the organization by generating blog articles 
                                     - Managed the team of Bloggers 
-                                    - Managed daily content updates on social media 
+                                    - Administered daily content updates on social media 
                                     - Coordinated with the Technical Team to fix the gaps 
                                   `
                     }]
@@ -108,7 +108,7 @@ var resumeData = {
                         project : 'Content and Product (Hotels)',
                         content : `Coordinated with the in-house team for the introduction of a new overview template - 
                                     - Executed location clean-up of 200+ cities - Prepared Zero Tolerance Report for 60+ cities 
-                                    - Coordinated with the Production Support Team for better presentation of Inclusions, Property Type, Facilities and Amenities on the website - Guided the new members on maintaining the content quality at different levels - Worked on 1 International City - Dubai along with the agency for coherent website content - Managed content related requests from the BD Team - Hotels (PAN India) - Created SEO-friendly content for hotels - Managed the work of an outsource agency on a daily basis and provided timely feedback 
+                                    - Coordinated with the Production Support Team for better presentation of Inclusions, Property Type, Facilities and Amenities on the website - Guided the new members on maintaining the content quality at different levels - Worked on 1 International City - Dubai along with the agency for coherent website content - Managed content requests from the BD Team - Hotels (PAN India) - Created SEO-friendly content for hotels - Supervised the work of an outsource agency on a daily basis and provided timely feedback 
                                     
                              
                                   `
