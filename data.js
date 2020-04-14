@@ -71,7 +71,7 @@ var resumeData = {
             {
                 designation : 'Assistant Manager - Content Management & Analytics',
                 companyName : 'CLEARTRIP PRIVATE LIMITED',
-                duration : 'July 2017-Present',
+                duration : 'July 2017-April 2020',
                 allprojects:[
                 {
                     project : 'Content Management, Social Media & Product Enhancement',
