@@ -29,6 +29,11 @@ var resumeData = {
         ],
         otherLinks :[
             {
+                url : 'mailto:ankita.mehra1988@gmail.com?Subject=Interesting profile, let\'s connect',
+                logo : 'https://img.icons8.com/ios/50/000000/mailbox-plane.png',
+                name : 'ankita.mehra1988@gmail.com'
+            },
+            {
                 url : 'https://www.linkedin.com/in/ankita-mehra-79607a73',
                 logo : 'https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg',
                 name : 'LinkedIn Profile'
@@ -42,6 +47,11 @@ var resumeData = {
                 url : 'https://dekhosunosocho.wordpress.com/',
                 logo : 'https://s1.wp.com/i/favicon.ico?v=1447321881',
                 name : 'Blog in Hindi'
+            },
+            {
+                url : 'https://datingpoesy.wordpress.com/',
+                logo : 'https://s1.wp.com/i/favicon.ico?v=1447321881',
+                name : 'Blog in English'
             },
             {
                 url : 'https://www.amazon.in/Decoding-Hypocrisy-Patriarchy-Feminism-Black-ebook/dp/B07NCYQDRN',
