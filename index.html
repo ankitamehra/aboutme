@@ -1,10 +1,10 @@
 <html>
     <head>
         <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700&display=swap" rel="stylesheet">
-        <link rel="stylesheet" href="me.css">
-        <script type="text/javascript" src="data.js"></script>
+        <link rel="stylesheet" href="me.css?v=1587279697462">
+        <script type="text/javascript" src="data.js?v=1587279697462"></script>
         <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/3.1.0/mustache.js"></script>
-        <script type="text/javascript" defer src="script.js"></script>
+        <script type="text/javascript" defer src="script.js?v=1587279697462"></script>
         <meta name="viewport" content="width=device-width,initial-scale=1.0">
         <meta property="og:image" content="https://qph.fs.quoracdn.net/main-raw-163389374-ygdkoqgyhbnkgwdxrvdpbtqlwsynkdrb.jpeg"/>
 		<meta property="og:description" content="My professional journey"/>
@@ -14,6 +14,7 @@
 		<!-- <link rel="stylesheet" href="libraries/bootstrap/css/bootstrap.min.css"> -->
     </head>
     <body>
+        <a href="https://github.com/9kartik/aboutme" class="forker"></a>
         <div class="top left" id="view">
         </div>
         
@@ -59,8 +60,22 @@
                     <div class="pb1 bold pcentered">PERSONAL DETAILS</div>
                     <div class="t8 pbhalf pcentered">Current City</div>
                     <div class="t8 pcentered">{{about.currentCity}}</div>
-                    <div class="t1">
+                    <div class="t1 printShow">
                         <div class="t8 bold pb1 ptopmore pcentered">CONTACT DETAILS</div>
+                        {{#about.contactLinks}}
+                            <div class="link pbhalf">
+                                <a href="{{url}}" target="_blank" class="grid3">
+                                    <span></span>
+                                    <span class="centered">
+                                        <img height="15em" src="{{logo}}"></img>
+                                    </span>
+                                    <span class="left">{{name}}</span>
+                                </a>
+                            </div>
+                        {{/about.contactLinks}}
+                    </div>
+                    <div class="t1">
+                        <div class="t8 bold pbhalf ptoponehalf pcentered">Other Links</div>
                         {{#about.otherLinks}}
                             <div class="link pbhalf">
                                 <a href="{{url}}" target="_blank" class="grid3">

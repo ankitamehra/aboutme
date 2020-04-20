@@ -27,12 +27,14 @@ var resumeData = {
                 value : 'Ankita Mehra'
             }
         ],
-        otherLinks :[
+        contactLinks:[
             {
                 url : 'mailto:ankita.mehra1988@gmail.com?Subject=Interesting profile, let\'s connect',
                 logo : 'https://img.icons8.com/ios/50/000000/mailbox-plane.png',
                 name : 'ankita.mehra1988@gmail.com'
-            },
+            }
+        ],
+        otherLinks:[
             {
                 url : 'https://www.linkedin.com/in/ankita-mehra-79607a73',
                 logo : 'https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg',
