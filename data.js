@@ -150,7 +150,22 @@ var resumeData = {
                 name : 'Blogging',
                 rating: 4
             },
-    
+            {
+                name : 'Knowledge Management',
+                rating: 4
+            },
+           {
+                name : 'Training & Development',
+                rating: 4
+            },
+           {
+                name : 'Social Media Management',
+                rating: 4
+            },
+           {
+                name : 'Corporate Communication',
+                rating: 4
+            },
             {
                 name : 'KDP - Amazon',
                 rating: 4
@@ -160,19 +175,19 @@ var resumeData = {
                 rating: 3
             },
             {
-                name : 'asana',
-                rating: 3
+                name : 'Leadership',
+                rating: 4
             },
             {
-                name : 'Atlassian Jira',
-                rating: 3
+                name : 'Bug tracking',
+                rating: 4
             },
             {
-                name : 'CleverTap',
-                rating: 2
+                name : 'Content Analysis',
+                rating: 4
             },
             {
-                name : 'Logo Design',
+                name : 'Website & App Layout',
                 rating: 4
             }
 
