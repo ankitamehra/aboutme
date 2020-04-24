@@ -103,7 +103,7 @@ var resumeData = {
                 allprojects:[
                     {
                         project : 'Content, Design and Social Media',
-                        content : `Finalized the website's layout - Wrote/edited coherent SEO friendly content for the website - 
+                        content : `Finalized the website's layout - Wrote/edited coherent SEO friendly content for the website
                                     - Updated SE0 friendly content on Wordpress - Represented the organization by generating blog articles 
                                     - Managed the team of Bloggers 
                                     - Administered daily content updates on social media 
@@ -118,7 +118,7 @@ var resumeData = {
                 allprojects:[
                     {
                         project : 'Content and Product (Hotels)',
-                        content : `Coordinated with the in-house team for the introduction of a new overview template - 
+                        content : `Coordinated with the in-house team for the introduction of a new overview template
                                     - Executed location clean-up of 200+ cities - Prepared Zero Tolerance Report for 60+ cities 
                                     - Coordinated with the Production Support Team for better presentation of Inclusions, Property Type, Facilities and Amenities on the website - Guided the new members on maintaining the content quality at different levels - Worked on 1 International City - Dubai along with the agency for coherent website content - Managed content requests from the BD Team - Hotels (PAN India) - Created SEO-friendly content for hotels - Supervised the work of an outsource agency on a daily basis and provided timely feedback 
                                     
@@ -143,27 +143,20 @@ var resumeData = {
         heading : 'Proficiencies',
         topics : [
             {
-                name : 'SEO',
+                name : 'SEO Writing',
                 rating: 4
             },
             {
-                name : 'WordPress',
+                name : 'Blogging',
                 rating: 4
             },
-            {
-                name : 'Blogspot',
-                rating: 4
-            },
-            {
-                name : 'MS Word',
-                rating: 4
-            },
+    
             {
                 name : 'KDP - Amazon',
                 rating: 4
             },
             {
-                name : 'MS Office',
+                name : 'Spreadsheets',
                 rating: 3
             },
             {
@@ -179,7 +172,7 @@ var resumeData = {
                 rating: 2
             },
             {
-                name : 'Canva',
+                name : 'Logo Design',
                 rating: 4
             }
 
