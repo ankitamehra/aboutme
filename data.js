@@ -46,7 +46,7 @@ var resumeData = {
                 name : 'Medium Articles'
             },
             {
-                url : 'https://dekhosunosocho.wordpress.com/',
+                url : 'https://musingsforever.wordpress.com/',
                 logo : 'https://s1.wp.com/i/favicon.ico?v=1447321881',
                 name : 'Blog in Hindi'
             },
