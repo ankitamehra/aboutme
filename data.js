@@ -32,6 +32,11 @@ var resumeData = {
                 url : 'mailto:ankita.mehra1988@gmail.com?Subject=Interesting profile, let\'s connect',
                 logo : 'https://img.icons8.com/ios/50/000000/mailbox-plane.png',
                 name : 'ankita.mehra1988@gmail.com'
+            },
+            {
+                url : 'tel:+919113564812',
+                logo : 'https://img.icons8.com/android/24/FF0045/cell-phone.png',
+                name : '+91-9113564812'
             }
         ],
         otherLinks:[
