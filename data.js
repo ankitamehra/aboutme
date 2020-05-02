@@ -74,6 +74,11 @@ var resumeData = {
                 url : 'https://www.behance.net/ankitamehrf5a3',
                 logo : 'https://www.behance.net/favicon.ico',
                 name : 'behance.net/ankita'
+            },
+             {
+                url : 'https://drive.google.com/open?id=1745utcLoV7AkkubGpxyQ0Cq5r595PPnB',
+                logo : 'https://img.icons8.com/ultraviolet/40/000000/certificate.png',
+                name : 'Lean Six Sigma'
             }
         ]
     },
