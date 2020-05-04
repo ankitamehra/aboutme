@@ -71,7 +71,7 @@ var resumeData = {
                 name : 'Quora'
             },
             {
-                url : 'https://www.behance.net/ankitamehrf5a3',
+                url : 'https://amehra.atlassian.net/wiki/home',
                 logo : 'https://wac-cdn.atlassian.com/dam/jcr:5d1374c2-276f-4bca-9ce4-813aba614b7a/confluence-icon-gradient-blue.svg?cdnVersion=989',
                 name : 'Confluence blog'
              },
