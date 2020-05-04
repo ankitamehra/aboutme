@@ -70,16 +70,21 @@ var resumeData = {
                 logo : 'https://cdn4.iconfinder.com/data/icons/miu-flat-social/60/quora-16.png',
                 name : 'Quora'
             },
+            {
+                url : 'https://www.behance.net/ankitamehrf5a3',
+                logo : 'https://wac-cdn.atlassian.com/dam/jcr:5d1374c2-276f-4bca-9ce4-813aba614b7a/confluence-icon-gradient-blue.svg?cdnVersion=989',
+                name : 'Confluence blog'
+             },
              {
                 url : 'https://www.behance.net/ankitamehrf5a3',
                 logo : 'https://www.behance.net/favicon.ico',
                 name : 'behance.net/ankita'
             },
              {
-                url : 'https://drive.google.com/open?id=1745utcLoV7AkkubGpxyQ0Cq5r595PPnB',
+                url : 'https://amehra.atlassian.net/wiki/home',
                 logo : 'https://img.icons8.com/ultraviolet/40/000000/certificate.png',
                 name : 'Lean Six Sigma'
-            }
+            },
         ]
     },
     'projects' : { // three columns per project
