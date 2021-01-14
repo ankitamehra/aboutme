@@ -2,7 +2,7 @@ var resumeData = {
     'about' :{
         name : 'Ankita Mehra',
         email : 'ankita.mehra1988@gmail.com',
-        designation : 'Assistant Manager - Content Management & Analytics',
+        designation : 'Deputy Manager - Communications',
         currentCity : 'Bengaluru',
         imgurl: 'https://images-na.ssl-images-amazon.com/images/I/914sMCV6VZL._US230_.jpg',
         metaTags : [
@@ -91,15 +91,43 @@ var resumeData = {
         heading : 'PROFESSIONAL EXPERIENCE',
         topics : [
             {
+                designation : 'Deputy Manager - Communications',
+                companyName : 'Paytm Payments Bank',
+                duration : 'July 2020-Present',
+                allprojects:[
+                {
+                    project : 'Content & Stakeholder Management, PR, Social Media, Product Enhancement, Workflow Management, Research & Analysis',
+                    content : `Developing and finalizing high quality content for the new website 
+                    - Leading a team of 5 and tracking their progress 
+                    - Reviewing and finalizing content for customer support teams 
+                    - SEO friendly content creation for blogs
+                    - Product and Engineering Team coordination for resolving content and product issues 
+                    - Content-related requests management
+                    - Coordinating with PR Team and external channels for new releases 
+                    - Timely feedback to the Communications as well as Product Teams (Mobile App and Website both) 
+                    - Reviewing Social Media Calendar, providing timely feedback for various social media posts
+                    - Frequent online research for more knowledge and to assess competitors' performance 
+                    - Guiding communications team and bridging work related gaps, defining goals and helping them own different types of projects 
+                    - Creating guidelines to increase productivity`
+                }]
+            },
+            {
                 designation : 'Assistant Manager - Content Management & Analytics',
                 companyName : 'CLEARTRIP PRIVATE LIMITED',
                 duration : 'July 2017-April 2020',
                 allprojects:[
                 {
                     project : 'Content Management, Social Media & Product Enhancement',
-                    content : `Improving Auto Search Suggestions for 60 cities (India) - Lay of the Land feature for Hotels product - Cross checking descriptions forwarded by the outsource agency - SEO friendly content creation for hotels (PAN India)- 
-                    Product and Engineering Team coordination for resolving content and product issues - Business development content-related requests management on a daily basis- Ad-hoc projects execution and management - 
-                    HR and PR Team coordination as and when required - Timely feedback to the Content as well as Product Team (Mobile App and Website both) - Content trackers management on a regular basis.`
+                    content : `Improving Auto Search Suggestions for 60 cities (India) 
+                    - Lay of the Land feature for Hotels product 
+                    - Cross checking descriptions forwarded by the outsource agency 
+                    - SEO friendly content creation for hotels (PAN India)
+                    - Product and Engineering Team coordination for resolving content and product issues 
+                    - Business development content-related requests management on a daily basis
+                    - Ad-hoc projects execution and management 
+                    - HR and PR Team coordination as and when required 
+                    - Timely feedback to the Content as well as Product Team (Mobile App and Website both) 
+                    - Content trackers management on a regular basis.`
                 }]
             },
             {
@@ -109,10 +137,12 @@ var resumeData = {
                 allprojects:[
                     {
                         project : 'Content Management, Social Media and PR',
-                        content : `Created core strategy for the brand - Designed the logo -  
-                                    Wrote and edited SE0 friendly articles for the blog - Provided feedback to the outsource agency for a commercial website creation 
-                                    -Coordinated with the HR Department and company's head for the successful implementation of company's guidelines - 
-                                    Worked on social media for brand promotion.`
+                        content : `Created core strategy for the brand 
+                        - Designed the logo 
+                        - Created SE0 friendly articles for the blog 
+                        - Provided feedback to the outsource agency for a commercial website creation             
+                        - Coordinated with the HR Department and company's head for the successful implementation of company's guidelines 
+                        - Worked on social media for brand promotion.`
                     }
                 ]
             },
@@ -123,9 +153,9 @@ var resumeData = {
                 allprojects:[
                     {
                         project : 'Content, Design and Social Media',
-                        content : `Finalized the website's layout - Wrote/edited coherent SEO friendly content for the website
-                                    - Updated SE0 friendly content on Wordpress - Represented the organization by generating blog articles 
-                                    - Managed the team of Bloggers 
+                        content : `Finalized the website's layout 
+                                    - Created coherent SEO friendly content for the website & Wordpress 
+                                    - Managed the team of bloggers 
                                     - Administered daily content updates on social media 
                                     - Coordinated with the Technical Team to fix the gaps 
                                   `
@@ -138,11 +168,15 @@ var resumeData = {
                 allprojects:[
                     {
                         project : 'Content and Product (Hotels)',
-                        content : `Coordinated with the in-house team for the introduction of a new overview template
-                                    - Executed location clean-up of 200+ cities - Prepared Zero Tolerance Report for 60+ cities 
-                                    - Coordinated with the Production Support Team for better presentation of Inclusions, Property Type, Facilities and Amenities on the website - Guided the new members on maintaining the content quality at different levels - Worked on 1 International City - Dubai along with the agency for coherent website content - Managed content requests from the BD Team - Hotels (PAN India) - Created SEO-friendly content for hotels - Supervised the work of an outsource agency on a daily basis and provided timely feedback 
-                                    
-                             
+                        content : ` Created SEO-friendly content for hotels 
+                        -Coordinated with the in-house team for the introduction of a new overview template
+                                    - Executed location clean-up of 200+ cities 
+                                    - Prepared Zero Tolerance Report for 60+ cities 
+                                    - Coordinated with the Production Support Team for better presentation of Inclusions, Property Type, Facilities and Amenities on the website 
+                                    - Guided teams and oursource members on maintaining the content quality at different levels 
+                                    - Elevated content for Dubai Hotels 
+                                    - Managed content requests from the BD Teams 
+                                     
                                   `
                     }]
                 }
@@ -163,6 +197,9 @@ var resumeData = {
         heading : 'Proficiencies',
         topics : [
             {
+                name: 'Workflow Assessment'
+            },
+            {
                 name : 'SEO Writing',
                 rating: 4
             },
@@ -171,11 +208,11 @@ var resumeData = {
                 rating: 4
             },
             {
-                name : 'Knowledge Management',
+                name : 'Content and Knowledge Management',
                 rating: 4
             },
            {
-                name : 'Training & Development',
+                name : 'Team Training & Skill Development',
                 rating: 4
             },
            {
@@ -187,28 +224,11 @@ var resumeData = {
                 rating: 4
             },
             {
-                name : 'KDP - Amazon',
+                name : 'Team Management',
                 rating: 4
             },
             {
-                name : 'Spreadsheets',
-                rating: 3
-            },
-            {
-                name : 'Leadership',
-                rating: 4
-            },
-            {
-                name : 'Bug tracking',
-                rating: 4
-            },
-            {
-                name : 'Content Analysis',
-                rating: 4
-            },
-            {
-                name : 'Website & App Layout',
-                rating: 4
+                name: 'UX Design Decision Making'
             }
 
         ]
