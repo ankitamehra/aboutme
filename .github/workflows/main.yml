@@ -13,8 +13,8 @@ jobs:
           node-version: 12.x
       - run: |
           node metaadder.js
-          git config --local user.email ${{github.actor}}
-          git config --local user.name ${{github.repository_owner}}
+          git config --local user.email "ankita.mehra1988@gmail.com"
+          git config --local user.name "Ankita Mehra"
           git add .
           git commit -m "open graph updates"
           git push origin gh-pages
