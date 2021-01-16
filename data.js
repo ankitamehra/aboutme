@@ -118,9 +118,9 @@ var resumeData = {
                 allprojects:[
                 {
                     project : 'Content Management, Social Media & Product Enhancement',
-                    content : `Improving Auto Search Suggestions for 60 cities (India) 
-                    - Lay of the Land feature for Hotels product 
-                    - Cross checking descriptions forwarded by the outsource agency 
+                    content : `Improved Auto Search Suggestions for 60 cities (India) 
+                    - Worked on 'Lay of the Land' feature for Hotels 
+                    - Cross checked descriptions forwarded by the outsource agency 
                     - SEO friendly content creation for hotels (PAN India)
                     - Product and Engineering Team coordination for resolving content and product issues 
                     - Business development content-related requests management on a daily basis
