@@ -81,19 +81,17 @@ var resumeData = {
                 duration : 'July 2020-Present',
                 allprojects:[
                 {
-                    project : 'Content & Stakeholder Management, PR, Social Media, Product Enhancement, Workflow Management, Research & Analysis',
-                    content : `Developing and finalizing clear and concise content with Project Managers for the new website and mobile app
-                    - Helping teammates ideate, execute and collaborate
-                    - Creating, reviewing and finalizing content for chat messages, SMSes, Newsletters, Emailers, app notifications and the like. Thus, building great customer experience
-                    - Creating, reviewing and publishing SEO friendly blogs on Wordpress
-                    - Collaborating with the Product Team and Design Team for developing different products through UX writing
+                    project : 'Content Design, Product Enhancement, Project Management & Analysis',
+                    content : `UX Writing for different digital products (mobile app and web)
+                    - Simplifying content for chat messages, SMSes, Newsletters, Emailers and app notifications
+                    - Publishing SEO friendly blogs on Wordpress
                     - Coordinating with the PR Team and external channels for new releases 
-                    - Providing timely feedback to the Communications and Product Team (for Mobile App and Website both) 
-                    - Creating and reviewing Social Media Calendar with the Marketing Head, providing suggestions for various social media posts
-                    - Conducting frequent online research for more knowledge and to assess competitors' performance 
-                    - Guiding the Communications team and bridging different types of content gaps, defining goals and helping them own a specific task 
+                    - Providing timely feedback to the Communications and Product Team for content design (mobile App and web) 
+                    - Creating Social Media Calendar with the Marketing Head, providing suggestions for various social media posts
+                    - Frequent competitive market research
+                    - Bridging content gaps, defining goals and delegating tasks
                     - Creating guidelines and documenting to increase productivity
-                    - Simplifying internal and external communication with the Product team, Engineering team, PR team, Legal team and Design team`
+                    - Reviewing wireframes on Figma`
                 }]
             },
             {
@@ -102,16 +100,15 @@ var resumeData = {
                 duration : 'July 2017-April 2020',
                 allprojects:[
                 {
-                    project : 'Content Management, Social Media & Product Enhancement',
+                    project : 'Content Design, Social Media & Product Enhancement',
                     content : `Improved Auto Search Suggestions for 60 cities (India) 
                     - Worked on 'Lay of the Land' feature for Hotels 
                     - Cross checked descriptions forwarded by the outsource agency 
                     - SEO friendly content creation for hotels (PAN India)
-                    - Product and Engineering Team coordination for resolving content and product issues 
-                    - Business development content-related requests management on a daily basis
+                    - Product and Engineering Team coordination for resolving content and product issues
                     - Ad-hoc projects execution and management 
                     - HR and PR Team coordination as and when required 
-                    - Timely feedback to the Content as well as Product Team (Mobile App and Website both) 
+                    - Timely feedback to the Content as well as Product Team (Mobile App and Web) 
                     - Content trackers management on a regular basis.`
                 }]
             },
@@ -121,13 +118,13 @@ var resumeData = {
                 duration: 'April 2017-June 2017',
                 allprojects:[
                     {
-                        project : 'Content Management, Social Media and PR',
+                        project : 'Content Design, Social Media and PR',
                         content : `Created core strategy for the brand 
                         - Designed the logo 
                         - Created SE0 friendly articles for the blog 
                         - Provided feedback to the outsource agency for a commercial website creation             
-                        - Coordinated with the HR Department and company's head for the successful implementation of company's guidelines 
-                        - Worked on social media for brand promotion.`
+                        - Coordinated with the HR Department and company's head  
+                        - Worked on social media for improving brand identity`
                     }
                 ]
             },
@@ -137,13 +134,12 @@ var resumeData = {
                 duration: 'May 2016-March 2017',
                 allprojects:[
                     {
-                        project : 'Content, Design and Social Media',
+                        project : 'Content Design and Social Media',
                         content : `Finalized the website's layout 
                                     - Created coherent SEO friendly content for the website & Wordpress 
                                     - Managed the team of bloggers 
                                     - Administered daily content updates on social media 
-                                    - Coordinated with the Technical Team to fix the gaps 
-                                  `
+                                    - Coordinated with the Technical Team to fix the gaps`
                     }]
                 },
             {
@@ -152,17 +148,15 @@ var resumeData = {
                 duration: 'July 2012-May 2016',
                 allprojects:[
                     {
-                        project : 'Content and Product (Hotels)',
-                        content : ` Created SEO-friendly content for hotels 
+                        project : 'Content Design and Product (Hotels)',
+                        content : ` Created SEO-friendly content for domestic and international hotels 
                         -Coordinated with the in-house team for the introduction of a new overview template
                                     - Executed location clean-up of 200+ cities 
                                     - Prepared Zero Tolerance Report for 60+ cities 
                                     - Coordinated with the Production Support Team for better presentation of Inclusions, Property Type, Facilities and Amenities on the website 
-                                    - Guided teams and oursource members on maintaining the content quality at different levels 
+                                    - Guided teams and oursource members on maintaining content quality
                                     - Elevated content for Dubai Hotels 
-                                    - Managed content requests from the BD Teams 
-                                     
-                                  `
+                                    - Managed content requests from the BD Teams`
                     }]
                 }
         ]
@@ -182,7 +176,7 @@ var resumeData = {
         heading : 'Proficiencies',
         topics : [
             {
-                name: 'Workflow Assessment'
+                name: 'UX Writing'
             },
             {
                 name : 'SEO Writing',
@@ -197,11 +191,7 @@ var resumeData = {
                 rating: 4
             },
            {
-                name : 'Team Training & Skill Development',
-                rating: 4
-            },
-           {
-                name : 'Social Media Management',
+                name : 'Skill Development',
                 rating: 4
             },
            {
@@ -211,9 +201,6 @@ var resumeData = {
             {
                 name : 'Team Management',
                 rating: 4
-            },
-            {
-                name: 'UX Design Decision Making'
             }
 
         ]
