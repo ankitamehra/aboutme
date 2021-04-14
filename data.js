@@ -32,11 +32,6 @@ var resumeData = {
                 url : 'mailto:ankita.mehra1988@gmail.com?Subject=Interesting profile, let\'s connect',
                 logo : 'https://img.icons8.com/ios/50/000000/mailbox-plane.png',
                 name : 'ankita.mehra1988@gmail.com'
-            },
-            {
-                url : 'tel:+919113564812',
-                logo : 'https://img.icons8.com/android/24/FF0045/cell-phone.png',
-                name : '+91-9113564812'
             }
         ],
         otherLinks:[
@@ -70,21 +65,11 @@ var resumeData = {
                 logo : 'https://cdn4.iconfinder.com/data/icons/miu-flat-social/60/quora-16.png',
                 name : 'Quora'
             },
-            {
-                url : 'https://amehra.atlassian.net/wiki/home',
-                logo : 'https://wac-cdn.atlassian.com/dam/jcr:5d1374c2-276f-4bca-9ce4-813aba614b7a/confluence-icon-gradient-blue.svg?cdnVersion=989',
-                name : 'Confluence blog'
-             },
              {
                 url : 'https://www.behance.net/ankitamehrf5a3',
                 logo : 'https://www.behance.net/favicon.ico',
                 name : 'behance.net/ankita'
-            },
-             {
-                url : 'https://amehra.atlassian.net/wiki/home',
-                logo : 'https://img.icons8.com/ultraviolet/40/000000/certificate.png',
-                name : 'Lean Six Sigma'
-            },
+            }
         ]
     },
     'projects' : { // three columns per project
@@ -97,18 +82,18 @@ var resumeData = {
                 allprojects:[
                 {
                     project : 'Content & Stakeholder Management, PR, Social Media, Product Enhancement, Workflow Management, Research & Analysis',
-                    content : `Developing and finalizing high quality content for the new website 
-                    - Leading a team of 5 and tracking their progress 
-                    - Reviewing and finalizing content for customer support teams 
-                    - SEO friendly content creation for blogs
-                    - Product and Engineering Team coordination for resolving content and product issues 
-                    - Content-related requests management
-                    - Coordinating with PR Team and external channels for new releases 
-                    - Timely feedback to the Communications as well as Product Teams (Mobile App and Website both) 
-                    - Reviewing Social Media Calendar, providing timely feedback for various social media posts
-                    - Frequent online research for more knowledge and to assess competitors' performance 
-                    - Guiding communications team and bridging work related gaps, defining goals and helping them own different types of projects 
-                    - Creating guidelines to increase productivity`
+                    content : `Developing and finalizing clear and concise content with Project Managers for the new website and mobile app
+                    - Helping teammates ideate, execute and collaborate
+                    - Creating, reviewing and finalizing content for chat messages, SMSes, Newsletters, Emailers, app notifications and the like. Thus, building great customer experience
+                    - Creating, reviewing and publishing SEO friendly blogs on Wordpress
+                    - Collaborating with the Product Team and Design Team for developing different products through UX writing
+                    - Coordinating with the PR Team and external channels for new releases 
+                    - Providing timely feedback to the Communications and Product Team (for Mobile App and Website both) 
+                    - Creating and reviewing Social Media Calendar with the Marketing Head, providing suggestions for various social media posts
+                    - Conducting frequent online research for more knowledge and to assess competitors' performance 
+                    - Guiding the Communications team and bridging different types of content gaps, defining goals and helping them own a specific task 
+                    - Creating guidelines and documenting to increase productivity
+                    - Simplifying internal and external communication with the Product team, Engineering team, PR team, Legal team and Design team`
                 }]
             },
             {
