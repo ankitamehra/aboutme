@@ -86,7 +86,7 @@ var resumeData = {
                     - Simplifying content for chat messages, SMSes, Newsletters, Emailers and app notifications
                     - Publishing SEO friendly blogs on Wordpress
                     - Coordinating with the PR Team and external channels for new releases 
-                    - Providing timely feedback to the Communications and Product Team for content design (mobile App and web) 
+                    - Providing timely feedback to the Communications and Product Team for content design (mobile app and web) 
                     - Creating Social Media Calendar with the Marketing Head, providing suggestions for various social media posts
                     - Frequent competitive market research
                     - Bridging content gaps, defining goals and delegating tasks
