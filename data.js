@@ -41,6 +41,11 @@ var resumeData = {
                 name : 'LinkedIn Profile'
             },
             {
+                url : 'https://www.figma.com/file/2whXphaut2yfUGbxvDbRXf/Portfolio',
+                logo : 'https://www.bookmarks.design/media/image/figma.jpg',
+                name : 'Portfolio-Figma'
+            },
+            {
                 url : 'https://medium.com/@ankitamehra_40334',
                 logo : 'https://cdn-static-1.medium.com/_/fp/icons/favicon-rebrand-medium.3Y6xpZ-0FSdWDnPM3hSBIA.ico',
                 name : 'Medium Articles'
