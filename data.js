@@ -3,7 +3,7 @@ var resumeData = {
         name : 'Ankita Mehra',
         email : 'ankita.mehra1988@gmail.com',
         designation : 'Deputy Manager - Communications',
-        currentCity : 'Bengaluru',
+        Country : 'India',
         imgurl: 'https://images-na.ssl-images-amazon.com/images/I/914sMCV6VZL._US230_.jpg',
         metaTags : [
             {
@@ -43,7 +43,7 @@ var resumeData = {
             {
                 url : 'https://www.figma.com/file/2whXphaut2yfUGbxvDbRXf/Portfolio',
                 logo : 'https://premium-graphic.com/wp-content/uploads/2020/12/Download-Figma-vector-logo-768x1129.jpg',
-                name : 'Portfolio-Figma'
+                name : 'Portfolio'
             },
             {
                 url : 'https://medium.com/@ankitamehra_40334',
