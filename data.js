@@ -42,7 +42,7 @@ var resumeData = {
             },
             {
                 url : 'https://www.figma.com/file/2whXphaut2yfUGbxvDbRXf/Portfolio',
-                logo : 'http://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png',
+                logo : 'https://premium-graphic.com/wp-content/uploads/2020/12/Download-Figma-vector-logo-768x1129.jpg',
                 name : 'Portfolio-Figma'
             },
             {
