@@ -3,7 +3,7 @@ var resumeData = {
         name : 'Ankita Mehra',
         email : 'ankita.mehra1988@gmail.com',
         designation : 'Deputy Manager - Communications',
-        current City : 'Varanasi',
+        currentCity : 'Varanasi, India',
         imgurl: 'https://images-na.ssl-images-amazon.com/images/I/914sMCV6VZL._US230_.jpg',
         metaTags : [
             {
